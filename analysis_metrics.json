@@ -1,0 +1,73 @@
+{
+  "rows": 150,
+  "columns": [
+    "Student_ID",
+    "Study_Hours_Per_Week",
+    "Attendance_Percent",
+    "Assignment_Completion_Percent",
+    "Tutoring_Hours_Per_Week",
+    "Exam_Score"
+  ],
+  "missing_values_by_column": {
+    "Student_ID": 0,
+    "Study_Hours_Per_Week": 0,
+    "Attendance_Percent": 0,
+    "Assignment_Completion_Percent": 0,
+    "Tutoring_Hours_Per_Week": 0,
+    "Exam_Score": 0
+  },
+  "score_mean": 63.78066666666667,
+  "score_median": 65.05000000000001,
+  "score_min": 36.9,
+  "score_max": 92.5,
+  "study_score_correlation": 0.7460407588538585,
+  "attendance_score_correlation": 0.4750633916850137,
+  "assignment_score_correlation": 0.39040390588254165,
+  "low_study_count": 40,
+  "low_study_mean": 51.614999999999995,
+  "high_study_count": 55,
+  "high_study_mean": 73.6,
+  "study_group_gap": 21.985,
+  "no_tutoring_count": 54,
+  "no_tutoring_mean": 63.666666666666664,
+  "tutoring_count": 96,
+  "tutoring_mean": 63.84479166666667,
+  "tutoring_group_gap": 0.17812500000000853,
+  "attendance_summary": [
+    {
+      "label": "50-64%",
+      "low": 50,
+      "high": 64,
+      "count": 32,
+      "mean_score": 57.046875
+    },
+    {
+      "label": "65-74%",
+      "low": 65,
+      "high": 74,
+      "count": 30,
+      "mean_score": 56.96666666666667
+    },
+    {
+      "label": "75-84%",
+      "low": 75,
+      "high": 84,
+      "count": 30,
+      "mean_score": 66.42666666666666
+    },
+    {
+      "label": "85-94%",
+      "low": 85,
+      "high": 94,
+      "count": 32,
+      "mean_score": 68.825
+    },
+    {
+      "label": "95-100%",
+      "low": 95,
+      "high": 100,
+      "count": 26,
+      "mean_score": 70.66923076923078
+    }
+  ]
+}

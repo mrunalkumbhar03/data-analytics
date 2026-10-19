@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620">
+<rect width="100%" height="100%" fill="#fbfcf8"/>
+<text x="100" y="42" font-family="Arial" font-size="25" font-weight="700" fill="#23332b">Average exam score by attendance band</text>
+<text x="100" y="68" font-family="Arial" font-size="14" fill="#68766d">Bars show group averages; labels show the number of students in each band</text>
+<line x1="100" y1="515.0" x2="935" y2="515.0" stroke="#e0e7df"/>
+<text x="86" y="520.0" text-anchor="end" font-family="Arial" font-size="13" fill="#6b776f">0</text>
+<line x1="100" y1="432.0" x2="935" y2="432.0" stroke="#e0e7df"/>
+<text x="86" y="437.0" text-anchor="end" font-family="Arial" font-size="13" fill="#6b776f">20</text>
+<line x1="100" y1="349.0" x2="935" y2="349.0" stroke="#e0e7df"/>
+<text x="86" y="354.0" text-anchor="end" font-family="Arial" font-size="13" fill="#6b776f">40</text>
+<line x1="100" y1="266.0" x2="935" y2="266.0" stroke="#e0e7df"/>
+<text x="86" y="271.0" text-anchor="end" font-family="Arial" font-size="13" fill="#6b776f">60</text>
+<line x1="100" y1="183.0" x2="935" y2="183.0" stroke="#e0e7df"/>
+<text x="86" y="188.0" text-anchor="end" font-family="Arial" font-size="13" fill="#6b776f">80</text>
+<line x1="100" y1="100.0" x2="935" y2="100.0" stroke="#e0e7df"/>
+<text x="86" y="105.0" text-anchor="end" font-family="Arial" font-size="13" fill="#6b776f">100</text>
+<rect x="135.0" y="278.3" width="125.0" height="236.7" rx="8" fill="#95b7a1"/>
+<text x="197.5" y="266.3" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#34443a">57.0</text>
+<text x="197.5" y="542" text-anchor="middle" font-family="Arial" font-size="13" fill="#59665e">50-64%</text>
+<text x="197.5" y="562" text-anchor="middle" font-family="Arial" font-size="12" fill="#8a958e">n=32</text>
+<rect x="295.0" y="278.6" width="125.0" height="236.4" rx="8" fill="#75a58b"/>
+<text x="357.5" y="266.6" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#34443a">57.0</text>
+<text x="357.5" y="542" text-anchor="middle" font-family="Arial" font-size="13" fill="#59665e">65-74%</text>
+<text x="357.5" y="562" text-anchor="middle" font-family="Arial" font-size="12" fill="#8a958e">n=30</text>
+<rect x="455.0" y="239.3" width="125.0" height="275.7" rx="8" fill="#5f9277"/>
+<text x="517.5" y="227.3" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#34443a">66.4</text>
+<text x="517.5" y="542" text-anchor="middle" font-family="Arial" font-size="13" fill="#59665e">75-84%</text>
+<text x="517.5" y="562" text-anchor="middle" font-family="Arial" font-size="12" fill="#8a958e">n=30</text>
+<rect x="615.0" y="229.4" width="125.0" height="285.6" rx="8" fill="#4d8068"/>
+<text x="677.5" y="217.4" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#34443a">68.8</text>
+<text x="677.5" y="542" text-anchor="middle" font-family="Arial" font-size="13" fill="#59665e">85-94%</text>
+<text x="677.5" y="562" text-anchor="middle" font-family="Arial" font-size="12" fill="#8a958e">n=32</text>
+<rect x="775.0" y="221.7" width="125.0" height="293.3" rx="8" fill="#396c57"/>
+<text x="837.5" y="209.7" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#34443a">70.7</text>
+<text x="837.5" y="542" text-anchor="middle" font-family="Arial" font-size="13" fill="#59665e">95-100%</text>
+<text x="837.5" y="562" text-anchor="middle" font-family="Arial" font-size="12" fill="#8a958e">n=26</text>
+<line x1="100" y1="515" x2="935" y2="515" stroke="#718078" stroke-width="1.5"/>
+<line x1="100" y1="100" x2="100" y2="515" stroke="#718078" stroke-width="1.5"/>
+<text x="517.5" y="600" text-anchor="middle" font-family="Arial" font-size="15" fill="#34443a">Attendance percentage</text>
+<text x="27" y="307.5" text-anchor="middle" transform="rotate(-90 27 307.5)" font-family="Arial" font-size="15" fill="#34443a">Average exam score</text>
+</svg>
